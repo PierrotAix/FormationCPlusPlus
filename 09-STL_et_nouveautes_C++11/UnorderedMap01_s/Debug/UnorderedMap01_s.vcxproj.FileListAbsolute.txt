@@ -1,0 +1,2 @@
+C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\08-Nouveautés_STL\UnorderedMap01_s\Debug\UnorderedMap01_s.exe
+C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\08-Nouveautés_STL\UnorderedMap01_s\Debug\UnorderedMap01_s.pdb

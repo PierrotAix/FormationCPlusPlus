@@ -1,0 +1,2 @@
+C:\Professionnel\Cours\Prestations\2020\811-PLB-C++ avancé (4j)\Ateliers\15-Multithreading\Thread05\Debug\Thread05.exe
+C:\Professionnel\Cours\Prestations\2020\811-PLB-C++ avancé (4j)\Ateliers\15-Multithreading\Thread05\Debug\Thread05.pdb

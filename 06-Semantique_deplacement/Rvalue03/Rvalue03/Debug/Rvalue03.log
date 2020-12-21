@@ -1,0 +1,25 @@
+﻿  chaine.cpp
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(19,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(26,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(37,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(47,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(55,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(56,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(65,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(66,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(89,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(94,33): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(94,51): error C2511: 'Chaine &Chaine::operator =(const int &&) noexcept' : impossible de trouver la fonction membre surchargée dans 'Chaine'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.h(4): message : voir la déclaration de 'Chaine'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(96,5): error C2671: 'Chaine::=' : les fonctions membres static n'ont pas de pointeurs 'this'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(96,15): error C2065: 'c' : identificateur non déclaré
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(97,15): error C2541: 'delete' : impossible de détruire des objets qui ne sont pas des pointeurs
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(98,14): error C2065: 'c' : identificateur non déclaré
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(99,30): error C2597: référence non conforme à un membre non static 'Chaine::longueur'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(99,30): error C3867: 'Chaine::longueur' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(99,3): error C2597: référence non conforme à un membre non static 'Chaine::pch'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.h(5): message : voir la déclaration de 'Chaine::pch'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(100,10): error C2597: référence non conforme à un membre non static 'Chaine::pch'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.h(5): message : voir la déclaration de 'Chaine::pch'
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(100,15): error C2065: 'c' : identificateur non déclaré
+C:\Dev\C++\FormationCPlusPlus\06-Semantique_deplacement\Rvalue03\Rvalue03\chaine.cpp(102,10): error C2671: 'Chaine::=' : les fonctions membres static n'ont pas de pointeurs 'this'

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  main.cpp
+C:\Professionnel\Cours\Prestations\2020\813-PLB-C++-Diginext (5j)\Ateliers\Avance\09-STL_et_nouveautés_C++11\STL_Conteneur02\STL_Conteneur02\main.cpp(13,43): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Professionnel\Cours\Prestations\2020\813-PLB-C++-Diginext (5j)\Ateliers\Avance\09-STL_et_nouveautés_C++11\STL_Conteneur02\STL_Conteneur02\main.cpp(13,43): error C2143: erreur de syntaxe : absence de ',' avant '&'

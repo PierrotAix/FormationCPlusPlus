@@ -1,0 +1,10 @@
+﻿  Lambda02.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(308,1): error C2664: 'void main::<lambda_454cb9fdcb228b72b3551535af603602>::operator ()(std::ostream &) const' : impossible de convertir l'argument 1 de 'int' en 'std::ostream &'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda02\Lambda02\Lambda02.cpp(33,77): message : voir la déclaration de 'main::<lambda_454cb9fdcb228b72b3551535af603602>::operator ()'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda02\Lambda02\Lambda02.cpp(33): message : voir la référence à l'instanciation de la fonction modèle '_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,main::<lambda_454cb9fdcb228b72b3551535af603602>>(_InIt,_InIt,_Fn)' en cours de compilation
+          with
+          [
+              _Fn=main::<lambda_454cb9fdcb228b72b3551535af603602>,
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]

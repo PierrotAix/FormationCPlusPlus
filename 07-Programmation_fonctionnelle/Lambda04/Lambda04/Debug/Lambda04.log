@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Lambda04.cpp
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(23,2): error C2059: erreur de syntaxe : '}'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(23,2): error C2143: erreur de syntaxe : absence de ';' avant '}'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(23,2): error C2143: erreur de syntaxe : absence de ')' avant ';'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(26,14): error C2065: 'str' : identificateur non déclaré
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(26,31): error C2440: 'initialisation' : impossible de convertir de 'initializer list' en 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(26,31): message : Aucun constructeur n'a pu prendre le type de source, ou la résolution de la surcharge du constructeur était ambiguë
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(27,32): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(27,33): error C2440: 'initialisation' : impossible de convertir de 'initializer list' en 'int'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(27,9): message : L'initialiseur contient trop d'éléments
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(30,2): error C2059: erreur de syntaxe : 'return'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(35,1): error C2059: erreur de syntaxe : '}'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(35,1): error C2143: erreur de syntaxe : absence de ';' avant '}'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(38,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda04\Lambda04\Lambda04.cpp(38,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)

@@ -1,0 +1,9 @@
+﻿  appli.cpp
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\appli.cpp(38,23): error C2666: 'operator +' : les 2 surcharges ont des conversions similaires
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\counter.h(21,17): message : est peut-être 'Counter operator +(const Counter &,const Counter &)'
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\appli.cpp(38,23): message : ou       'built-in C++ operator+(int, int)'
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\appli.cpp(38,23): message : lors de la tentative de mise en correspondance de la liste des arguments '(Counter, int)'
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\appli.cpp(40,14): error C2666: '+' : les 2 surcharges ont des conversions similaires
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\counter.h(21,17): message : est peut-être 'Counter operator +(const Counter &,const Counter &)'
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\appli.cpp(40,14): message : ou       'built-in C++ operator+(int, int)'
+C:\Dev\C++\FormationCPlusPlus\08-Autres_nouveautes_C++11\Default-delete01\Default-delete01\appli.cpp(40,14): message : lors de la tentative de mise en correspondance de la liste des arguments '(int, Counter)'

@@ -1,0 +1,2 @@
+C:\Professionnel\Cours\Prestations\2020\813-PLB-C++-Diginext (5j)\Ateliers\Avance\05-DesignPatterns\Pattern06_s\Debug\Pattern06_s.exe
+C:\Professionnel\Cours\Prestations\2020\813-PLB-C++-Diginext (5j)\Ateliers\Avance\05-DesignPatterns\Pattern06_s\Debug\Pattern06_s.pdb
