@@ -142,8 +142,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="..\..\..\Ateliers-EclipseCpp\Foncteur01_s\valeurs.txt" />
     <Text Include="ReadMe.txt" />
+    <Text Include="valeurs.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />

@@ -2,8 +2,10 @@
 #include "CppUnitTest.h"
 #include "..\RootFinder\RootFinder.h"
 #include <stdexcept>
+#include <iostream>
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
+using namespace std; 
 
 namespace NativeRooterTest
 {
@@ -70,6 +72,51 @@ namespace NativeRooterTest
 					Assert::Fail(message, LINE_INFO());
 				}
 			}
+		}
+
+		TEST_METHOD(Test_AdditionWithDoubles_GetCorrectSum)
+		{
+			// Arrange
+			CRootFinder lRooter;
+			double lExpected = 5.0;
+
+			// Act
+			double lActual = lRooter.Addition(3.0, 2.0);
+
+			// Assert
+			Assert::AreEqual(lExpected, lActual);
+		}
+
+		TEST_METHOD(Test_GetLine_WithSimpleExeFile_GetCorrectLine)
+		{
+			// Arrange
+			CRootFinder lRooter;
+			string lHeading{ "TMI"s };
+			string lKeyword{ "BU2"s };
+			string lRoot{ "..\\..\\..\\TestFiles\\"s };
+			string lRelativeFilePath{ "Line_haspdinst.exe"s };
+			string lExpectedResultLine{ "TMI;BU2;1;Line_haspdinst.exe;;(Ox39=-\u009bÒ\u0087Å\\\u0094IMEH5BU2\"#ç¢Ìñ\u0096\u0094.\\Ê-);VRAI;FAUX;"s };
+			lExpectedResultLine = "Resultat" ;
+
+			// Act
+			string lResultLine = lRooter.GetLine(lHeading, lKeyword, lRoot, lRelativeFilePath, "");
+			//cout << lResultLine << " : " << lExpectedResultLine << endl; 
+			// Assert
+			Assert::AreEqual(lExpectedResultLine, lResultLine);
+		}
+
+		TEST_METHOD(Test_GetNumberOfCharactersOfFile_WithSimpleFile_GetCorrectLine)
+		{
+			// Arrange
+			CRootFinder lRooter;
+			string lRelativeFilePath{ "C:\\Dev\\C++\\Github\\FormationCPlusPlus\\11-AutoTests\\RootFinder\\valeurs.txt"s };
+			int lExpectedResultLine;
+			lExpectedResultLine = 37;
+
+			// Act
+			int lResultLine = lRooter.GetNumberOfCharactersOfFile(lRelativeFilePath);
+			// Assert
+			Assert::AreEqual(lExpectedResultLine, lResultLine);
 		}
 	};
 }
