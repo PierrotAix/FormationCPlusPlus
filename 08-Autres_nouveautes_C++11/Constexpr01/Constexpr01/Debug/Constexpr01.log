@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  Constexpr01.cpp
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\Constexpr01\Constexpr01\Constexpr01.cpp(33,29): error C2975: '_Size' : argument template non valide pour 'std::array', expression constante évaluée au moment de la compilation attendue
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\array(24): message : voir la déclaration de '_Size'
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\Constexpr01\Constexpr01\Constexpr01.cpp(37,40): error C2975: '_Size' : argument template non valide pour 'std::array', expression constante évaluée au moment de la compilation attendue
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\array(24): message : voir la déclaration de '_Size'
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\Constexpr01\Constexpr01\Constexpr01.cpp(42,25): error C2127: 'milieu' : initialisation illégale de l'entité 'constexpr' avec une expression non constante
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\Constexpr01\Constexpr01\Point.h(1,7): message : échec dû au fait que le type 'Point' n'est pas un type littéral
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\Constexpr01\Constexpr01\Point.h(1,7): message : le type 'Point' n'est pas un type littéral : il ne s'agit pas d'un type d'agrégation ou d'un type de clôture, ou il a un constructeur constexpr qui est un constructeur de copie ou de déplacement

@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Dev\C++\FormationCPlusPlus\07-Programmation_fonctionnelle\Lambda05\Lambda05\main.cpp(21,88): error C2660: 'std::unique_ptr<FILE,void (__cdecl *)(FILE *)>::unique_ptr' : la fonction ne prend pas 2 arguments
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\memory(2686,5): message : voir la déclaration de 'std::unique_ptr<FILE,void (__cdecl *)(FILE *)>::unique_ptr'

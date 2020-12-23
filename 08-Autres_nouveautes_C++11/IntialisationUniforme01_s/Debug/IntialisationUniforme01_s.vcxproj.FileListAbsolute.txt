@@ -1,6 +1,0 @@
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautés_C++11\IntialisationUniforme01_s\Debug\IntialisationUniforme01_s.exe
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautés_C++11\IntialisationUniforme01_s\Debug\IntialisationUniforme01_s.pdb
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\IntialisationUniforme01_s\Debug\IntialisationUniforme01_s.exe
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\01-Nouveautes_C++11\IntialisationUniforme01_s\Debug\IntialisationUniforme01_s.pdb
-C:\Professionnel\Cours\Prestations\2020\801-PLB-C++ avancé (3j)\Ateliers\11-Autres_nouveautes_C++11\IntialisationUniforme01_s\Debug\IntialisationUniforme01_s.exe
-C:\Professionnel\Cours\Prestations\2020\801-PLB-C++ avancé (3j)\Ateliers\11-Autres_nouveautes_C++11\IntialisationUniforme01_s\Debug\IntialisationUniforme01_s.pdb

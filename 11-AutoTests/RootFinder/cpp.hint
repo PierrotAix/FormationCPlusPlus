@@ -1,0 +1,2 @@
+#define ROOTFINDER_API __declspec(dllexport)
+#define ROOTFINDER_API __declspec(dllimport)

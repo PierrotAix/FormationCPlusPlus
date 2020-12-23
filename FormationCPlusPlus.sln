@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp01_s", "Cpp01_s\Cpp01_s.vcxproj", "{D8EE458F-80C5-495E-9E9B-4367DA32D032}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp01–Premier_programme_C++_simple", "Cpp01_s\Cpp01_s.vcxproj", "{D8EE458F-80C5-495E-9E9B-4367DA32D032}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp02_s", "Cpp02_s\Cpp02_s.vcxproj", "{31DD49E5-515A-4A85-8293-2CBC9428B585}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp02-Affichage_de_variables_de_types_primitifs", "Cpp02_s\Cpp02_s.vcxproj", "{31DD49E5-515A-4A85-8293-2CBC9428B585}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp03_s", "Cpp03_s\Cpp03_s.vcxproj", "{9C7EF05B-F215-4418-A5CE-D1A4AD15493C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp03-Saisie_dun_nombre_decimal_calcul_affichage_du_resultat", "Cpp03_s\Cpp03_s.vcxproj", "{9C7EF05B-F215-4418-A5CE-D1A4AD15493C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp04_s", "Cpp04_s\Cpp04_s.vcxproj", "{51CB5B79-C7B9-434C-A1B3-377B5114D4CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp04-Definition_dune_classe_creation_dobjets_de_cette_classe", "Cpp04_s\Cpp04_s.vcxproj", "{51CB5B79-C7B9-434C-A1B3-377B5114D4CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp05_s", "Cpp05_s\Cpp05_s.vcxproj", "{509866C8-254D-4779-A2EE-0F442CC13C89}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp05-Surcharge_de_methode_dans_la_classe_Counter", "Cpp05_s\Cpp05_s.vcxproj", "{509866C8-254D-4779-A2EE-0F442CC13C89}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp06_s", "Cpp06_s\Cpp06_s.vcxproj", "{92E01D9C-69DD-4144-AF52-B1BD2403B996}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp06-Mise_en_place_de_trois_constructeurs_dans_la_classe_Counter", "Cpp06_s\Cpp06_s.vcxproj", "{92E01D9C-69DD-4144-AF52-B1BD2403B996}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp07_s", "Cpp07_s\Cpp07_s.vcxproj", "{D3D1EE77-3396-4473-B1DF-5277C9845A3E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp07-Mise_en_place_dun_destructeur_dans_la_classe_Counter", "Cpp07_s\Cpp07_s.vcxproj", "{D3D1EE77-3396-4473-B1DF-5277C9845A3E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp08_s", "Cpp08_s\Cpp08_s.vcxproj", "{B380A462-0957-4B15-9F56-845D5DF73C09}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp08-Definir_la_classe_Counter_dans_un_fichier_en-tete_et_ses_methodes_dans_un_fichier_source", "Cpp08_s\Cpp08_s.vcxproj", "{B380A462-0957-4B15-9F56-845D5DF73C09}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp09_s", "Cpp09_s\Cpp09_s.vcxproj", "{B16F2AD7-6BF7-46C6-8E0D-26A02B09659B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp09-Mettre_en_place_une_methode_comportant_un_argument_par_defaut_dans_la_classe_Counter", "Cpp09_s\Cpp09_s.vcxproj", "{B16F2AD7-6BF7-46C6-8E0D-26A02B09659B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp10_s", "Cpp10_s\Cpp10_s.vcxproj", "{B59E7C58-F737-4D5F-AF4B-96832FB5ACFB}"
 EndProject
@@ -136,6 +136,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnorderedMap01_s", "09-STL_et_nouveautes_C++11\UnorderedMap01_s\UnorderedMap01_s.vcxproj", "{36C90F07-4A0D-43F5-8DDE-925C2A00D26B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chrono01_s", "09-STL_et_nouveautes_C++11\Chrono01_s\Chrono01_s\Chrono01_s.vcxproj", "{28330B69-6875-4EC8-807E-BB4566B62007}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11-AutoTests", "11-AutoTests", "{E9D23A47-AC44-49AE-A9F7-BE60379BC59F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RootFinder", "11-AutoTests\RootFinder\RootFinder.vcxproj", "{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NativeRooterTest", "11-AutoTests\NativeRooteTest\NativeRooteTest.vcxproj", "{1A0EED02-8698-455A-9AF9-482A12B2173C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -633,6 +639,22 @@ Global
 		{28330B69-6875-4EC8-807E-BB4566B62007}.Release|x64.Build.0 = Release|x64
 		{28330B69-6875-4EC8-807E-BB4566B62007}.Release|x86.ActiveCfg = Release|Win32
 		{28330B69-6875-4EC8-807E-BB4566B62007}.Release|x86.Build.0 = Release|Win32
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Debug|x64.ActiveCfg = Debug|x64
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Debug|x64.Build.0 = Debug|x64
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Debug|x86.Build.0 = Debug|Win32
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Release|x64.ActiveCfg = Release|x64
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Release|x64.Build.0 = Release|x64
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Release|x86.ActiveCfg = Release|Win32
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8}.Release|x86.Build.0 = Release|Win32
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Debug|x64.ActiveCfg = Debug|x64
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Debug|x64.Build.0 = Debug|x64
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Debug|x86.Build.0 = Debug|Win32
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Release|x64.ActiveCfg = Release|x64
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Release|x64.Build.0 = Release|x64
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Release|x86.ActiveCfg = Release|Win32
+		{1A0EED02-8698-455A-9AF9-482A12B2173C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -689,6 +711,8 @@ Global
 		{EAFFF950-FF11-4537-9CA1-B3F1232413CC} = {E5E3A97A-63D1-4647-A890-C4DEEF3F4C96}
 		{36C90F07-4A0D-43F5-8DDE-925C2A00D26B} = {E5E3A97A-63D1-4647-A890-C4DEEF3F4C96}
 		{28330B69-6875-4EC8-807E-BB4566B62007} = {E5E3A97A-63D1-4647-A890-C4DEEF3F4C96}
+		{BE0D60B1-F1FD-4A10-82F1-FAF7B82BC7B8} = {E9D23A47-AC44-49AE-A9F7-BE60379BC59F}
+		{1A0EED02-8698-455A-9AF9-482A12B2173C} = {E9D23A47-AC44-49AE-A9F7-BE60379BC59F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25627FA2-3C43-4D63-880F-78A06F1B22AD}

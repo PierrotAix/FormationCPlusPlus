@@ -1,2 +1,0 @@
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\07-Utilisation_avancée_généricité\Forward01\Debug\Forward01.exe
-C:\Professionnel\Cours\Prestations\2020\781-IB-C++ avancé (LA201-4j)\Ateliers\07-Utilisation_avancée_généricité\Forward01\Debug\Forward01.pdb
