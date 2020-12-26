@@ -149,6 +149,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp01–Premier_programme_C
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Get-Started-Debugging", "00-SandBox\Get-Started-Debugging\Get-Started-Debugging.vcxproj", "{8DB51E52-12EA-482F-87D0-45DD03E973F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OC18417-a-lassaut-des-pointeurs", "00-SandBox\OC18417-a-lassaut-des-pointeurs\OC18417-a-lassaut-des-pointeurs.vcxproj", "{B8A24C80-0602-47CD-B178-52188FA57DCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -677,6 +679,14 @@ Global
 		{8DB51E52-12EA-482F-87D0-45DD03E973F2}.Release|x64.Build.0 = Release|x64
 		{8DB51E52-12EA-482F-87D0-45DD03E973F2}.Release|x86.ActiveCfg = Release|Win32
 		{8DB51E52-12EA-482F-87D0-45DD03E973F2}.Release|x86.Build.0 = Release|Win32
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Debug|x64.ActiveCfg = Debug|x64
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Debug|x64.Build.0 = Debug|x64
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Debug|x86.Build.0 = Debug|Win32
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Release|x64.ActiveCfg = Release|x64
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Release|x64.Build.0 = Release|x64
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Release|x86.ActiveCfg = Release|Win32
+		{B8A24C80-0602-47CD-B178-52188FA57DCA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -737,6 +747,7 @@ Global
 		{1A0EED02-8698-455A-9AF9-482A12B2173C} = {E9D23A47-AC44-49AE-A9F7-BE60379BC59F}
 		{9C121C2A-EAD9-4E6C-80B9-1438FA162F5C} = {5864328C-F6C5-4E80-97FF-6388C1618683}
 		{8DB51E52-12EA-482F-87D0-45DD03E973F2} = {5864328C-F6C5-4E80-97FF-6388C1618683}
+		{B8A24C80-0602-47CD-B178-52188FA57DCA} = {5864328C-F6C5-4E80-97FF-6388C1618683}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {25627FA2-3C43-4D63-880F-78A06F1B22AD}

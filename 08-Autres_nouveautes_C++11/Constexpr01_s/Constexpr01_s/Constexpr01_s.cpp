@@ -28,11 +28,11 @@ constexpr Point pointmilieu(const Point& p1, const Point& p2)
 int main()
 {
 	constexpr int val = 4;               
-	std::array<int, pow(3, val)> tableau1;
+	std::tableau<int, pow(3, val)> tableau1;
 	cout << "taille de tableau1: " << tableau1.size() << endl;		
 	
 	constexpr int n = 3;
-	std::array<int, factorielle(pow(2,n))> tableau2;
+	std::tableau<int, factorielle(pow(2,n))> tableau2;
 	cout << "taille de tableau2: " << tableau2.size() << endl;
 	
 	constexpr Point p1(9.4, 27.7);

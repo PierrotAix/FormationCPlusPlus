@@ -31,7 +31,7 @@ void show(const T& x)
 
 int main()
 {
-	array<int,5> ints{ 10, 20, 30, 40, 50 };
+	tableau<int,5> ints{ 10, 20, 30, 40, 50 };
 	show(ints);
 
 	cout << "*****" << endl;
@@ -39,7 +39,7 @@ int main()
 	show(s);
 	
 	cout << "*****" << endl;
-	array<string, 12> m { "January", "February","March", "April", "May",
+	tableau<string, 12> m { "January", "February","March", "April", "May",
 						"June", "July", "August","September", "October","November", "December" };
 	show(m);
 	
